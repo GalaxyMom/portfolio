@@ -1,0 +1,3854 @@
+{
+    "paleto": {
+        "goldbar": {
+            "price": {
+                "min": 1250,
+                "max": 1700
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 5000,
+                "max": 10000
+            },
+            "count": 0,
+            "slot": 55,
+            "hidden": false
+        },
+        "gopro3": {
+            "price": 1000,
+            "count": 0,
+            "slot": 9,
+            "hidden": false
+        },
+        "pogo": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 0,
+            "slot": 38,
+            "hidden": false
+        },
+        "rgwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 61,
+            "hidden": false
+        },
+        "flat_television": {
+            "price": {
+                "min": 200,
+                "max": 350
+            },
+            "count": 0,
+            "slot": 39,
+            "hidden": false
+        },
+        "scwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 71,
+            "hidden": false
+        },
+        "eqwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 62,
+            "hidden": false
+        },
+        "phone": {
+            "price": 700,
+            "count": 3,
+            "slot": 4,
+            "hidden": false
+        },
+        "advancedlockpick": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 28,
+            "hidden": false
+        },
+        "bong": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 37,
+            "hidden": false
+        },
+        "electronickit": {
+            "price": 100,
+            "count": 6,
+            "slot": 3,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": 125,
+            "count": 0,
+            "slot": 21,
+            "hidden": false
+        },
+        "coffemachine": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 40,
+            "hidden": false
+        },
+        "amstereo": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 59,
+            "hidden": false
+        },
+        "fishing_log": {
+            "price": 3,
+            "count": 61,
+            "slot": 30,
+            "hidden": false
+        },
+        "chip": {
+            "price": 30,
+            "count": 0,
+            "slot": 1,
+            "hidden": false
+        },
+        "monitor": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 44,
+            "hidden": false
+        },
+        "gopro2": {
+            "price": 500,
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "fountainpen": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 60,
+            "hidden": false
+        },
+        "console": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 36,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 1000,
+                "max": 3500
+            },
+            "count": 0,
+            "slot": 56,
+            "hidden": false
+        },
+        "iftablet": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 76,
+            "hidden": false
+        },
+        "sculpture": {
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 43,
+            "hidden": false
+        },
+        "carstereo": {
+            "price": {
+                "min": 50,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 51,
+            "hidden": false
+        },
+        "wwknowpad": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 77,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 50,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 49,
+            "hidden": false
+        },
+        "tapeplayer": {
+            "price": {
+                "min": 35,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 53,
+            "hidden": false
+        },
+        "cctv2": {
+            "price": 4000,
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 100,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 48,
+            "hidden": false
+        },
+        "television": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 33,
+            "hidden": false
+        },
+        "lighter": {
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "count": 1,
+            "slot": 15,
+            "hidden": false
+        },
+        "bdwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 70,
+            "hidden": false
+        },
+        "lockpick": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 27,
+            "hidden": false
+        },
+        "smallscales": {
+            "price": 10,
+            "count": 0,
+            "slot": 13,
+            "hidden": false
+        },
+        "j_phone": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 42,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 50,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 600,
+                "max": 1250
+            },
+            "count": 0,
+            "slot": 57,
+            "hidden": false
+        },
+        "ammo-9": {
+            "price": 2,
+            "count": 0,
+            "slot": 25,
+            "hidden": false
+        },
+        "ebracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 68,
+            "hidden": false
+        },
+        "board": {
+            "price": 20,
+            "count": 7,
+            "slot": 2,
+            "hidden": false
+        },
+        "bswatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 67,
+            "hidden": false
+        },
+        "qualityscales": {
+            "price": {
+                "min": 80,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 14,
+            "hidden": false
+        },
+        "trimmer": {
+            "price": {
+                "min": 45,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 23,
+            "hidden": false
+        },
+        "bobbypin": {
+            "price": 2,
+            "count": 0,
+            "slot": 16,
+            "hidden": false
+        },
+        "radio": {
+            "price": 250,
+            "count": 1,
+            "slot": 5,
+            "hidden": false
+        },
+        "fishing_tin": {
+            "price": 2,
+            "count": 40,
+            "slot": 31,
+            "hidden": false
+        },
+        "scissorjack": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 22,
+            "hidden": false
+        },
+        "skull": {
+            "price": {
+                "min": 350,
+                "max": 600
+            },
+            "count": 0,
+            "slot": 52,
+            "hidden": false
+        },
+        "lugwrench": {
+            "price": {
+                "min": 10,
+                "max": 15
+            },
+            "count": 0,
+            "slot": 24,
+            "hidden": false
+        },
+        "cctv3": {
+            "price": 1500,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "gopro": {
+            "price": 100,
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "printer": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 45,
+            "hidden": false
+        },
+        "shoebox": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 34,
+            "hidden": false
+        },
+        "yozzys": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 74,
+            "hidden": false
+        },
+        "rbracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 63,
+            "hidden": false
+        },
+        "scufflinks": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 64,
+            "hidden": false
+        },
+        "dj_deck": {
+            "price": {
+                "min": 60,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 35,
+            "hidden": false
+        },
+        "nylonrope": {
+            "price": 125,
+            "count": 5,
+            "slot": 20,
+            "hidden": false
+        },
+        "rnecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 69,
+            "hidden": true
+        },
+        "snecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 65,
+            "hidden": true
+        },
+        "panther": {
+            "price": {
+                "min": 3000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 54,
+            "hidden": true
+        },
+        "hairdryer": {
+            "price": {
+                "min": 5,
+                "max": 10
+            },
+            "count": 0,
+            "slot": 41,
+            "hidden": true
+        },
+        "necklace": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 47,
+            "hidden": true
+        },
+        "pickaxe": {
+            "price": 75,
+            "count": 0,
+            "slot": 18,
+            "hidden": true
+        },
+        "cwnotepad": {
+            "price": 10,
+            "count": 1,
+            "slot": 17,
+            "hidden": true
+        },
+        "fishing_boot": {
+            "price": 3,
+            "count": 25,
+            "slot": 29,
+            "hidden": true
+        },
+        "polaroidcam": {
+            "price": 125,
+            "count": 0,
+            "slot": 6,
+            "hidden": true
+        },
+        "qwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 72,
+            "hidden": true
+        },
+        "microwave": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 32,
+            "hidden": true
+        },
+        "enecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 66,
+            "hidden": true
+        },
+        "iflapbook": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 75,
+            "hidden": true
+        },
+        "screwdriverset": {
+            "price": 100,
+            "count": 0,
+            "slot": 19,
+            "hidden": true
+        },
+        "ammo-45": {
+            "price": 2,
+            "count": 0,
+            "slot": 26,
+            "hidden": true
+        },
+        "iforange": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 79,
+            "hidden": true
+        },
+        "portablecopier": {
+            "price": 300,
+            "count": 15,
+            "slot": 12,
+            "hidden": true
+        },
+        "rgring": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 73,
+            "hidden": true
+        },
+        "watch": {
+            "price": {
+                "min": 30,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 46,
+            "hidden": true
+        }
+    },
+    "clinton": {
+        "goldbar": {
+            "price": {
+                "min": 1250,
+                "max": 1700
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 5000,
+                "max": 10000
+            },
+            "count": 0,
+            "slot": 55,
+            "hidden": false
+        },
+        "gopro3": {
+            "price": 1000,
+            "count": 0,
+            "slot": 9,
+            "hidden": false
+        },
+        "pogo": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 0,
+            "slot": 38,
+            "hidden": false
+        },
+        "rgwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 61,
+            "hidden": false
+        },
+        "flat_television": {
+            "price": {
+                "min": 200,
+                "max": 350
+            },
+            "count": 0,
+            "slot": 39,
+            "hidden": false
+        },
+        "scwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 71,
+            "hidden": false
+        },
+        "eqwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 62,
+            "hidden": false
+        },
+        "phone": {
+            "price": 700,
+            "count": 10,
+            "slot": 4,
+            "hidden": false
+        },
+        "advancedlockpick": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 28,
+            "hidden": false
+        },
+        "bong": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 37,
+            "hidden": false
+        },
+        "electronickit": {
+            "price": 100,
+            "count": 20,
+            "slot": 3,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": 125,
+            "count": 0,
+            "slot": 21,
+            "hidden": false
+        },
+        "coffemachine": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 40,
+            "hidden": false
+        },
+        "amstereo": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 59,
+            "hidden": false
+        },
+        "fishing_log": {
+            "price": 3,
+            "count": 2,
+            "slot": 30,
+            "hidden": false
+        },
+        "chip": {
+            "price": 30,
+            "count": 0,
+            "slot": 1,
+            "hidden": false
+        },
+        "monitor": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 44,
+            "hidden": false
+        },
+        "gopro2": {
+            "price": 500,
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "fountainpen": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 60,
+            "hidden": false
+        },
+        "console": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 36,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 1000,
+                "max": 3500
+            },
+            "count": 0,
+            "slot": 56,
+            "hidden": false
+        },
+        "iftablet": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 76,
+            "hidden": false
+        },
+        "sculpture": {
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 43,
+            "hidden": false
+        },
+        "carstereo": {
+            "price": {
+                "min": 50,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 51,
+            "hidden": false
+        },
+        "wwknowpad": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 77,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 50,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 49,
+            "hidden": false
+        },
+        "tapeplayer": {
+            "price": {
+                "min": 35,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 53,
+            "hidden": false
+        },
+        "cctv2": {
+            "price": 4000,
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 100,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 48,
+            "hidden": false
+        },
+        "television": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 8,
+            "slot": 33,
+            "hidden": false
+        },
+        "lighter": {
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "count": 5,
+            "slot": 15,
+            "hidden": false
+        },
+        "bdwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 70,
+            "hidden": false
+        },
+        "lockpick": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 27,
+            "hidden": false
+        },
+        "smallscales": {
+            "price": 10,
+            "count": 3,
+            "slot": 13,
+            "hidden": false
+        },
+        "rgring": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 73,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 50,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 600,
+                "max": 1250
+            },
+            "count": 0,
+            "slot": 57,
+            "hidden": false
+        },
+        "ammo-9": {
+            "price": 2,
+            "count": 0,
+            "slot": 25,
+            "hidden": false
+        },
+        "ebracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 68,
+            "hidden": false
+        },
+        "board": {
+            "price": 20,
+            "count": 10,
+            "slot": 2,
+            "hidden": false
+        },
+        "bswatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 67,
+            "hidden": false
+        },
+        "qualityscales": {
+            "price": {
+                "min": 80,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 14,
+            "hidden": false
+        },
+        "trimmer": {
+            "price": {
+                "min": 45,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 23,
+            "hidden": false
+        },
+        "bobbypin": {
+            "price": 2,
+            "count": 0,
+            "slot": 16,
+            "hidden": false
+        },
+        "radio": {
+            "price": 250,
+            "count": 0,
+            "slot": 5,
+            "hidden": false
+        },
+        "iforange": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 79,
+            "hidden": false
+        },
+        "fishing_tin": {
+            "price": 2,
+            "count": 1,
+            "slot": 31,
+            "hidden": false
+        },
+        "scissorjack": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 1,
+            "slot": 22,
+            "hidden": false
+        },
+        "skull": {
+            "price": {
+                "min": 350,
+                "max": 600
+            },
+            "count": 0,
+            "slot": 52,
+            "hidden": false
+        },
+        "lugwrench": {
+            "price": {
+                "min": 10,
+                "max": 15
+            },
+            "count": 1,
+            "slot": 24,
+            "hidden": false
+        },
+        "cctv3": {
+            "price": 1500,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "gopro": {
+            "price": 100,
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "printer": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 45,
+            "hidden": false
+        },
+        "shoebox": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 34,
+            "hidden": false
+        },
+        "yozzys": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 74,
+            "hidden": false
+        },
+        "rbracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 63,
+            "hidden": false
+        },
+        "cwnotepad": {
+            "price": 10,
+            "count": 41,
+            "slot": 17,
+            "hidden": false
+        },
+        "scufflinks": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 64,
+            "hidden": false
+        },
+        "j_phone": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 42,
+            "hidden": true
+        },
+        "rnecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 69,
+            "hidden": true
+        },
+        "snecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 65,
+            "hidden": true
+        },
+        "nylonrope": {
+            "price": 125,
+            "count": 10,
+            "slot": 20,
+            "hidden": true
+        },
+        "hairdryer": {
+            "price": {
+                "min": 5,
+                "max": 10
+            },
+            "count": 2,
+            "slot": 41,
+            "hidden": true
+        },
+        "panther": {
+            "price": {
+                "min": 3000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 54,
+            "hidden": true
+        },
+        "necklace": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 47,
+            "hidden": true
+        },
+        "pickaxe": {
+            "price": 75,
+            "count": 0,
+            "slot": 18,
+            "hidden": true
+        },
+        "fishing_boot": {
+            "price": 3,
+            "count": 1,
+            "slot": 29,
+            "hidden": true
+        },
+        "polaroidcam": {
+            "price": 125,
+            "count": 0,
+            "slot": 6,
+            "hidden": true
+        },
+        "qwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 72,
+            "hidden": true
+        },
+        "microwave": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 32,
+            "hidden": true
+        },
+        "enecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 66,
+            "hidden": true
+        },
+        "ammo-45": {
+            "price": 2,
+            "count": 0,
+            "slot": 26,
+            "hidden": true
+        },
+        "screwdriverset": {
+            "price": 100,
+            "count": 8,
+            "slot": 19,
+            "hidden": true
+        },
+        "portablecopier": {
+            "price": 300,
+            "count": 30,
+            "slot": 12,
+            "hidden": true
+        },
+        "iflapbook": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 75,
+            "hidden": true
+        },
+        "dj_deck": {
+            "price": {
+                "min": 60,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 35,
+            "hidden": true
+        },
+        "watch": {
+            "price": {
+                "min": 30,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 46,
+            "hidden": true
+        }
+    },
+    "harmony": {
+        "goldbar": {
+            "price": {
+                "min": 1250,
+                "max": 1700
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 5000,
+                "max": 10000
+            },
+            "count": 0,
+            "slot": 55,
+            "hidden": false
+        },
+        "dj_deck": {
+            "price": {
+                "min": 60,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 35,
+            "hidden": false
+        },
+        "pogo": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 0,
+            "slot": 38,
+            "hidden": false
+        },
+        "rgwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 61,
+            "hidden": false
+        },
+        "flat_television": {
+            "price": {
+                "min": 200,
+                "max": 350
+            },
+            "count": 0,
+            "slot": 39,
+            "hidden": false
+        },
+        "scwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 71,
+            "hidden": false
+        },
+        "eqwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 62,
+            "hidden": false
+        },
+        "phone": {
+            "price": 700,
+            "count": 0,
+            "slot": 4,
+            "hidden": false
+        },
+        "advancedlockpick": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 28,
+            "hidden": false
+        },
+        "bong": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 1,
+            "slot": 37,
+            "hidden": false
+        },
+        "electronickit": {
+            "price": 100,
+            "count": 6,
+            "slot": 3,
+            "hidden": false
+        },
+        "skull": {
+            "price": {
+                "min": 350,
+                "max": 600
+            },
+            "count": 0,
+            "slot": 52,
+            "hidden": false
+        },
+        "coffemachine": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 40,
+            "hidden": false
+        },
+        "amstereo": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 59,
+            "hidden": false
+        },
+        "fishing_log": {
+            "price": 3,
+            "count": 0,
+            "slot": 30,
+            "hidden": false
+        },
+        "chip": {
+            "price": 30,
+            "count": 0,
+            "slot": 1,
+            "hidden": false
+        },
+        "monitor": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 44,
+            "hidden": false
+        },
+        "gopro2": {
+            "price": 500,
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "fountainpen": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 60,
+            "hidden": false
+        },
+        "console": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 1,
+            "slot": 36,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 1000,
+                "max": 3500
+            },
+            "count": 0,
+            "slot": 56,
+            "hidden": false
+        },
+        "iftablet": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 76,
+            "hidden": false
+        },
+        "sculpture": {
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "count": 1,
+            "slot": 43,
+            "hidden": false
+        },
+        "carstereo": {
+            "price": {
+                "min": 50,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 51,
+            "hidden": false
+        },
+        "wwknowpad": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 77,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 50,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 49,
+            "hidden": false
+        },
+        "tapeplayer": {
+            "price": {
+                "min": 35,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 53,
+            "hidden": false
+        },
+        "cctv2": {
+            "price": 4000,
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 100,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 48,
+            "hidden": false
+        },
+        "television": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 15,
+            "slot": 33,
+            "hidden": false
+        },
+        "lighter": {
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "count": 3,
+            "slot": 15,
+            "hidden": false
+        },
+        "bdwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 70,
+            "hidden": false
+        },
+        "lockpick": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 27,
+            "hidden": false
+        },
+        "smallscales": {
+            "price": 10,
+            "count": 0,
+            "slot": 13,
+            "hidden": false
+        },
+        "j_phone": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 42,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 50,
+            "hidden": false
+        },
+        "lugwrench": {
+            "price": {
+                "min": 10,
+                "max": 15
+            },
+            "count": 0,
+            "slot": 24,
+            "hidden": false
+        },
+        "ammo-9": {
+            "price": 2,
+            "count": 0,
+            "slot": 25,
+            "hidden": false
+        },
+        "cwnotepad": {
+            "price": 10,
+            "count": 3,
+            "slot": 17,
+            "hidden": false
+        },
+        "board": {
+            "price": 20,
+            "count": 51,
+            "slot": 2,
+            "hidden": false
+        },
+        "pickaxe": {
+            "price": 75,
+            "count": 0,
+            "slot": 18,
+            "hidden": false
+        },
+        "qualityscales": {
+            "price": {
+                "min": 80,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 14,
+            "hidden": false
+        },
+        "trimmer": {
+            "price": {
+                "min": 45,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 23,
+            "hidden": false
+        },
+        "bobbypin": {
+            "price": 2,
+            "count": 0,
+            "slot": 16,
+            "hidden": false
+        },
+        "radio": {
+            "price": 250,
+            "count": 0,
+            "slot": 5,
+            "hidden": false
+        },
+        "iforange": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 79,
+            "hidden": false
+        },
+        "fishing_tin": {
+            "price": 2,
+            "count": 0,
+            "slot": 31,
+            "hidden": false
+        },
+        "scissorjack": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 22,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": 125,
+            "count": 0,
+            "slot": 21,
+            "hidden": false
+        },
+        "yozzys": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 74,
+            "hidden": false
+        },
+        "cctv3": {
+            "price": 1500,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "gopro": {
+            "price": 100,
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "printer": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 45,
+            "hidden": false
+        },
+        "shoebox": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 34,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 600,
+                "max": 1250
+            },
+            "count": 0,
+            "slot": 57,
+            "hidden": false
+        },
+        "rbracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 63,
+            "hidden": false
+        },
+        "scufflinks": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 64,
+            "hidden": false
+        },
+        "portablecopier": {
+            "price": 300,
+            "count": 15,
+            "slot": 12,
+            "hidden": false
+        },
+        "nylonrope": {
+            "price": 125,
+            "count": 1,
+            "slot": 20,
+            "hidden": true
+        },
+        "rnecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 69,
+            "hidden": true
+        },
+        "snecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 65,
+            "hidden": true
+        },
+        "gopro3": {
+            "price": 1000,
+            "count": 0,
+            "slot": 9,
+            "hidden": true
+        },
+        "hairdryer": {
+            "price": {
+                "min": 5,
+                "max": 10
+            },
+            "count": 1,
+            "slot": 41,
+            "hidden": true
+        },
+        "necklace": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 47,
+            "hidden": true
+        },
+        "ammo-45": {
+            "price": 2,
+            "count": 0,
+            "slot": 26,
+            "hidden": true
+        },
+        "microwave": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 32,
+            "hidden": true
+        },
+        "fishing_boot": {
+            "price": 3,
+            "count": 0,
+            "slot": 29,
+            "hidden": true
+        },
+        "polaroidcam": {
+            "price": 125,
+            "count": 1,
+            "slot": 6,
+            "hidden": true
+        },
+        "qwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 72,
+            "hidden": true
+        },
+        "iflapbook": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 75,
+            "hidden": true
+        },
+        "enecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 66,
+            "hidden": true
+        },
+        "rgring": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 73,
+            "hidden": true
+        },
+        "screwdriverset": {
+            "price": 100,
+            "count": 1,
+            "slot": 19,
+            "hidden": true
+        },
+        "bswatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 67,
+            "hidden": true
+        },
+        "panther": {
+            "price": {
+                "min": 3000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 54,
+            "hidden": true
+        },
+        "ebracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 68,
+            "hidden": true
+        },
+        "watch": {
+            "price": {
+                "min": 30,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 46,
+            "hidden": true
+        }
+    },
+    "fishmarket": {
+        "fishingyellowperch": {
+            "price": 25,
+            "count": 5,
+            "slot": 7
+        },
+        "fishingflounder": {
+            "price": 32,
+            "count": 5,
+            "slot": 6
+        },
+        "fishingsturgeon": {
+            "price": 85,
+            "count": 5,
+            "slot": 10
+        },
+        "fishingcod": {
+            "price": 30,
+            "count": 5,
+            "slot": 5
+        },
+        "fishingmackerel": {
+            "price": 30,
+            "count": 5,
+            "slot": 8
+        },
+        "fishingshark": {
+            "price": 400,
+            "count": 5,
+            "slot": 12
+        },
+        "fishingbluefish": {
+            "price": 7,
+            "count": 5,
+            "slot": 2
+        },
+        "fishingcarp": {
+            "price": 15,
+            "count": 5,
+            "slot": 3
+        },
+        "fishingwhale": {
+            "price": 2500,
+            "count": 5,
+            "slot": 11
+        },
+        "fishingsockeye-salmon": {
+            "price": 60,
+            "count": 5,
+            "slot": 9
+        },
+        "fishingcat": {
+            "price": 20,
+            "count": 5,
+            "slot": 4
+        },
+        "fishingalligatorsnappingturtle": {
+            "price": 65,
+            "count": 5,
+            "slot": 1
+        }
+    },
+    "jeweltheif": {
+        "crystal_red": {
+            "price": {
+                "min": 100,
+                "max": 175
+            },
+            "count": 141,
+            "slot": 15,
+            "hidden": false
+        },
+        "goldbar": {
+            "price": {
+                "min": 3500,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 19,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 22500,
+                "max": 25000
+            },
+            "count": 1,
+            "slot": 12,
+            "hidden": false
+        },
+        "diamond_ring": {
+            "price": {
+                "min": 100,
+                "max": 200
+            },
+            "count": 51,
+            "slot": 8,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 6,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 10000,
+                "max": 15000
+            },
+            "count": 2,
+            "slot": 13,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 5000,
+                "max": 7500
+            },
+            "count": 8,
+            "slot": 14,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 100,
+                "max": 160
+            },
+            "count": 24,
+            "slot": 7,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 150,
+                "max": 300
+            },
+            "count": 10,
+            "slot": 4,
+            "hidden": false
+        },
+        "crystal_blue": {
+            "price": {
+                "min": 100,
+                "max": 175
+            },
+            "count": 136,
+            "slot": 16,
+            "hidden": false
+        },
+        "gold_nugget": {
+            "price": {
+                "min": 1000,
+                "max": 1250
+            },
+            "count": 1284,
+            "slot": 18,
+            "hidden": false
+        },
+        "rolex": {
+            "price": {
+                "min": 1000,
+                "max": 1500
+            },
+            "count": 77,
+            "slot": 5,
+            "hidden": false
+        },
+        "goldchain": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 219,
+            "slot": 10,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 150,
+                "max": 350
+            },
+            "count": 14,
+            "slot": 3,
+            "hidden": false
+        },
+        "panther": {
+            "price": {
+                "min": 15000,
+                "max": 20000
+            },
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "10kgoldchain": {
+            "price": {
+                "min": 1000,
+                "max": 2000
+            },
+            "count": 132,
+            "slot": 9,
+            "hidden": false
+        },
+        "crystal_green": {
+            "price": {
+                "min": 100,
+                "max": 175
+            },
+            "count": 128,
+            "slot": 17,
+            "hidden": false
+        },
+        "necklace": {
+            "price": {
+                "min": 150,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 2,
+            "hidden": false
+        },
+        "watch": {
+            "price": {
+                "min": 100,
+                "max": 120
+            },
+            "count": 32,
+            "slot": 1,
+            "hidden": false
+        }
+    },
+    "bdp": {
+        "goldbar": {
+            "price": {
+                "min": 1250,
+                "max": 1700
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 5000,
+                "max": 10000
+            },
+            "count": 0,
+            "slot": 55,
+            "hidden": false
+        },
+        "gopro3": {
+            "price": 1000,
+            "count": 0,
+            "slot": 9,
+            "hidden": false
+        },
+        "pogo": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 0,
+            "slot": 38,
+            "hidden": false
+        },
+        "rgwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 61,
+            "hidden": false
+        },
+        "flat_television": {
+            "price": {
+                "min": 200,
+                "max": 350
+            },
+            "count": 1,
+            "slot": 39,
+            "hidden": false
+        },
+        "scwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 71,
+            "hidden": false
+        },
+        "eqwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 62,
+            "hidden": false
+        },
+        "phone": {
+            "price": 700,
+            "count": 14,
+            "slot": 4,
+            "hidden": false
+        },
+        "advancedlockpick": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 28,
+            "hidden": false
+        },
+        "bong": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 2,
+            "slot": 37,
+            "hidden": false
+        },
+        "electronickit": {
+            "price": 100,
+            "count": 6,
+            "slot": 3,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": 125,
+            "count": 0,
+            "slot": 21,
+            "hidden": false
+        },
+        "coffemachine": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 40,
+            "hidden": false
+        },
+        "amstereo": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 59,
+            "hidden": false
+        },
+        "fishing_log": {
+            "price": 3,
+            "count": 17,
+            "slot": 30,
+            "hidden": false
+        },
+        "chip": {
+            "price": 30,
+            "count": 0,
+            "slot": 1,
+            "hidden": false
+        },
+        "monitor": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 44,
+            "hidden": false
+        },
+        "gopro2": {
+            "price": 500,
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "fountainpen": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 60,
+            "hidden": false
+        },
+        "console": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 36,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 1000,
+                "max": 3500
+            },
+            "count": 0,
+            "slot": 56,
+            "hidden": false
+        },
+        "iftablet": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 76,
+            "hidden": false
+        },
+        "sculpture": {
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 43,
+            "hidden": false
+        },
+        "carstereo": {
+            "price": {
+                "min": 50,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 51,
+            "hidden": false
+        },
+        "wwknowpad": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 77,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 50,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 49,
+            "hidden": false
+        },
+        "tapeplayer": {
+            "price": {
+                "min": 35,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 53,
+            "hidden": false
+        },
+        "cctv2": {
+            "price": 4000,
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 100,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 48,
+            "hidden": false
+        },
+        "television": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 22,
+            "slot": 33,
+            "hidden": false
+        },
+        "lighter": {
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "count": 6,
+            "slot": 15,
+            "hidden": false
+        },
+        "bdwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 70,
+            "hidden": false
+        },
+        "lockpick": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 27,
+            "hidden": false
+        },
+        "smallscales": {
+            "price": 10,
+            "count": 0,
+            "slot": 13,
+            "hidden": false
+        },
+        "j_phone": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 42,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 50,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 600,
+                "max": 1250
+            },
+            "count": 0,
+            "slot": 57,
+            "hidden": false
+        },
+        "ammo-9": {
+            "price": 2,
+            "count": 0,
+            "slot": 25,
+            "hidden": false
+        },
+        "ebracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 68,
+            "hidden": false
+        },
+        "board": {
+            "price": 20,
+            "count": 0,
+            "slot": 2,
+            "hidden": false
+        },
+        "bswatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 67,
+            "hidden": false
+        },
+        "qualityscales": {
+            "price": {
+                "min": 80,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 14,
+            "hidden": false
+        },
+        "trimmer": {
+            "price": {
+                "min": 45,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 23,
+            "hidden": false
+        },
+        "bobbypin": {
+            "price": 2,
+            "count": 0,
+            "slot": 16,
+            "hidden": false
+        },
+        "radio": {
+            "price": 250,
+            "count": 4,
+            "slot": 5,
+            "hidden": false
+        },
+        "iforange": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 79,
+            "hidden": false
+        },
+        "fishing_tin": {
+            "price": 2,
+            "count": 29,
+            "slot": 31,
+            "hidden": false
+        },
+        "scissorjack": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 22,
+            "hidden": false
+        },
+        "skull": {
+            "price": {
+                "min": 350,
+                "max": 600
+            },
+            "count": 0,
+            "slot": 52,
+            "hidden": false
+        },
+        "lugwrench": {
+            "price": {
+                "min": 10,
+                "max": 15
+            },
+            "count": 0,
+            "slot": 24,
+            "hidden": false
+        },
+        "cctv3": {
+            "price": 1500,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "gopro": {
+            "price": 100,
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "printer": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 45,
+            "hidden": false
+        },
+        "shoebox": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 34,
+            "hidden": false
+        },
+        "yozzys": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 74,
+            "hidden": false
+        },
+        "rbracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 63,
+            "hidden": false
+        },
+        "scufflinks": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 64,
+            "hidden": false
+        },
+        "dj_deck": {
+            "price": {
+                "min": 60,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 35,
+            "hidden": false
+        },
+        "nylonrope": {
+            "price": 125,
+            "count": 20,
+            "slot": 20,
+            "hidden": true
+        },
+        "rnecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 69,
+            "hidden": true
+        },
+        "snecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 65,
+            "hidden": true
+        },
+        "panther": {
+            "price": {
+                "min": 3000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 54,
+            "hidden": true
+        },
+        "hairdryer": {
+            "price": {
+                "min": 5,
+                "max": 10
+            },
+            "count": 1,
+            "slot": 41,
+            "hidden": true
+        },
+        "necklace": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 47,
+            "hidden": true
+        },
+        "pickaxe": {
+            "price": 75,
+            "count": 0,
+            "slot": 18,
+            "hidden": true
+        },
+        "cwnotepad": {
+            "price": 10,
+            "count": 30,
+            "slot": 17,
+            "hidden": true
+        },
+        "fishing_boot": {
+            "price": 3,
+            "count": 16,
+            "slot": 29,
+            "hidden": true
+        },
+        "polaroidcam": {
+            "price": 125,
+            "count": 0,
+            "slot": 6,
+            "hidden": true
+        },
+        "qwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 72,
+            "hidden": true
+        },
+        "microwave": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 32,
+            "hidden": true
+        },
+        "enecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 66,
+            "hidden": true
+        },
+        "iflapbook": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 75,
+            "hidden": true
+        },
+        "screwdriverset": {
+            "price": 100,
+            "count": 7,
+            "slot": 19,
+            "hidden": true
+        },
+        "ammo-45": {
+            "price": 2,
+            "count": 0,
+            "slot": 26,
+            "hidden": true
+        },
+        "portablecopier": {
+            "price": 300,
+            "count": 51,
+            "slot": 12,
+            "hidden": true
+        },
+        "rgring": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 73,
+            "hidden": true
+        },
+        "watch": {
+            "price": {
+                "min": 30,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 46,
+            "hidden": true
+        }
+    },
+    "farmers1": {
+        "tomato_seed": {
+            "price": 10,
+            "count": 250,
+            "slot": 15
+        },
+        "celery": {
+            "price": 10,
+            "count": 500,
+            "slot": 33
+        },
+        "broccoli": {
+            "price": 10,
+            "count": 0,
+            "slot": 5
+        },
+        "blueberry": {
+            "price": 10,
+            "count": 500,
+            "slot": 23
+        },
+        "spinach": {
+            "price": 10,
+            "count": 500,
+            "slot": 32
+        },
+        "garlic": {
+            "price": 10,
+            "count": 500,
+            "slot": 31
+        },
+        "squash": {
+            "price": 10,
+            "count": 500,
+            "slot": 30
+        },
+        "strawberry": {
+            "price": 10,
+            "count": 500,
+            "slot": 19
+        },
+        "wheat_seed": {
+            "price": 3,
+            "count": 250,
+            "slot": 12
+        },
+        "corn_seed": {
+            "price": 10,
+            "count": 250,
+            "slot": 18
+        },
+        "lime": {
+            "price": 10,
+            "count": 500,
+            "slot": 24
+        },
+        "carrots": {
+            "price": 10,
+            "count": 0,
+            "slot": 6
+        },
+        "honey": {
+            "price": 700,
+            "count": 84,
+            "slot": 1
+        },
+        "pineapple": {
+            "price": 10,
+            "count": 500,
+            "slot": 21
+        },
+        "redpeppers": {
+            "price": 10,
+            "count": 500,
+            "slot": 34
+        },
+        "potato_seed": {
+            "price": 10,
+            "count": 250,
+            "slot": 16
+        },
+        "lemons": {
+            "price": 10,
+            "count": 500,
+            "slot": 27
+        },
+        "grapes": {
+            "price": 10,
+            "count": 500,
+            "slot": 38
+        },
+        "hotpepper": {
+            "price": 10,
+            "count": 500,
+            "slot": 36
+        },
+        "corn": {
+            "price": 10,
+            "count": 0,
+            "slot": 2
+        },
+        "pickle": {
+            "price": 10,
+            "count": 0,
+            "slot": 8
+        },
+        "cobcorn": {
+            "price": 10,
+            "count": 500,
+            "slot": 40
+        },
+        "carrot_seed": {
+            "price": 3,
+            "count": 250,
+            "slot": 13
+        },
+        "greenbeans": {
+            "price": 10,
+            "count": 500,
+            "slot": 39
+        },
+        "potatoes": {
+            "price": 10,
+            "count": 0,
+            "slot": 7
+        },
+        "peas": {
+            "price": 10,
+            "count": 500,
+            "slot": 37
+        },
+        "orange": {
+            "price": 10,
+            "count": 500,
+            "slot": 22
+        },
+        "kiwi": {
+            "price": 10,
+            "count": 500,
+            "slot": 28
+        },
+        "apples": {
+            "price": 10,
+            "count": 500,
+            "slot": 20
+        },
+        "grape": {
+            "price": 10,
+            "count": 500,
+            "slot": 26
+        },
+        "tomato": {
+            "price": 10,
+            "count": 0,
+            "slot": 3
+        },
+        "banana": {
+            "price": 10,
+            "count": 500,
+            "slot": 25
+        },
+        "greenpeppers": {
+            "price": 10,
+            "count": 500,
+            "slot": 35
+        },
+        "lettuce_seed": {
+            "price": 3,
+            "count": 250,
+            "slot": 11
+        },
+        "lettuce": {
+            "price": 10,
+            "count": 0,
+            "slot": 9
+        },
+        "pickle_seed": {
+            "price": 10,
+            "count": 250,
+            "slot": 17
+        },
+        "cucumbers": {
+            "price": 10,
+            "count": 0,
+            "slot": 10
+        },
+        "wheat": {
+            "price": 10,
+            "count": 0,
+            "slot": 4
+        },
+        "cherry": {
+            "price": 10,
+            "count": 400,
+            "slot": 29
+        },
+        "broccoli_seed": {
+            "price": 10,
+            "count": 250,
+            "slot": 14
+        }
+    },
+    "garbage": {
+        "polyester": {
+            "price": 6,
+            "count": 18,
+            "slot": 11,
+            "hidden": false
+        },
+        "rubber": {
+            "price": 10,
+            "count": 185,
+            "slot": 9,
+            "hidden": false
+        },
+        "electronics": {
+            "price": 10,
+            "count": 24,
+            "slot": 10,
+            "hidden": false
+        },
+        "copper": {
+            "price": 2,
+            "count": 97,
+            "slot": 3,
+            "hidden": false
+        },
+        "aluminum": {
+            "price": 5,
+            "count": 31,
+            "slot": 5,
+            "hidden": false
+        },
+        "iron": {
+            "price": 2,
+            "count": 0,
+            "slot": 2,
+            "hidden": false
+        },
+        "plastic": {
+            "price": 5,
+            "count": 80,
+            "slot": 6,
+            "hidden": false
+        },
+        "garbage": {
+            "price": 1,
+            "count": 1,
+            "slot": 1,
+            "hidden": true
+        },
+        "glass": {
+            "price": 10,
+            "count": 133,
+            "slot": 8,
+            "hidden": true
+        },
+        "steel": {
+            "price": 2,
+            "count": 0,
+            "slot": 4,
+            "hidden": true
+        },
+        "metalscrap": {
+            "price": 5,
+            "count": 0,
+            "slot": 7,
+            "hidden": true
+        }
+    },
+    "bm1": {
+        "hacking_device": {
+            "price": {
+                "min": 6250,
+                "max": 7000
+            },
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "thermite": {
+            "price": {
+                "min": 2000,
+                "max": 2500
+            },
+            "count": 0,
+            "slot": 6,
+            "hidden": false
+        },
+        "cutter": {
+            "price": {
+                "min": 4000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 3,
+            "hidden": false
+        },
+        "advancedvpn": {
+            "price": {
+                "min": 2000,
+                "max": 2500
+            },
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "hacking-laptop": {
+            "price": {
+                "min": 3500,
+                "max": 4000
+            },
+            "count": 0,
+            "slot": 4,
+            "hidden": false
+        },
+        "dongle": {
+            "price": {
+                "min": 6000,
+                "max": 7000
+            },
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": {
+                "min": 150,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 1,
+            "hidden": true
+        },
+        "transponder": {
+            "price": {
+                "min": 4000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 9,
+            "hidden": true
+        },
+        "blowtorch": {
+            "price": {
+                "min": 225,
+                "max": 300
+            },
+            "count": 0,
+            "slot": 2,
+            "hidden": true
+        },
+        "ironoxide": {
+            "price": {
+                "min": 1000,
+                "max": 1500
+            },
+            "count": 0,
+            "slot": 5,
+            "hidden": true
+        }
+    },
+    "mats": {
+        "refinedsteel": {
+            "price": 25,
+            "count": 150,
+            "slot": 3,
+            "hidden": false
+        },
+        "refinedplastic": {
+            "price": 30,
+            "count": 0,
+            "slot": 5,
+            "hidden": false
+        },
+        "refinedrubber": {
+            "price": 50,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "refinedaluminum": {
+            "price": 30,
+            "count": 40,
+            "slot": 4,
+            "hidden": false
+        },
+        "refinedscrap": {
+            "price": 30,
+            "count": 120,
+            "slot": 6,
+            "hidden": false
+        },
+        "refinedglass": {
+            "price": 50,
+            "count": 0,
+            "slot": 7,
+            "hidden": true
+        },
+        "refinedcopper": {
+            "price": 25,
+            "count": 0,
+            "slot": 2,
+            "hidden": true
+        },
+        "refinediron": {
+            "price": 25,
+            "count": 0,
+            "slot": 1,
+            "hidden": true
+        }
+    },
+    "strawberry": {
+        "goldbar": {
+            "price": {
+                "min": 1250,
+                "max": 1700
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "diamond": {
+            "price": {
+                "min": 5000,
+                "max": 10000
+            },
+            "count": 0,
+            "slot": 55,
+            "hidden": false
+        },
+        "dj_deck": {
+            "price": {
+                "min": 60,
+                "max": 80
+            },
+            "count": 2,
+            "slot": 35,
+            "hidden": false
+        },
+        "pogo": {
+            "price": {
+                "min": 500,
+                "max": 750
+            },
+            "count": 0,
+            "slot": 38,
+            "hidden": false
+        },
+        "rgwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 61,
+            "hidden": false
+        },
+        "flat_television": {
+            "price": {
+                "min": 200,
+                "max": 350
+            },
+            "count": 0,
+            "slot": 39,
+            "hidden": false
+        },
+        "scwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 71,
+            "hidden": false
+        },
+        "eqwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 62,
+            "hidden": false
+        },
+        "phone": {
+            "price": 700,
+            "count": 8,
+            "slot": 4,
+            "hidden": false
+        },
+        "advancedlockpick": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 28,
+            "hidden": false
+        },
+        "bong": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 37,
+            "hidden": false
+        },
+        "electronickit": {
+            "price": 100,
+            "count": 32,
+            "slot": 3,
+            "hidden": false
+        },
+        "laserdrill": {
+            "price": 125,
+            "count": 0,
+            "slot": 21,
+            "hidden": false
+        },
+        "coffemachine": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 40,
+            "hidden": false
+        },
+        "amstereo": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 59,
+            "hidden": false
+        },
+        "fishing_log": {
+            "price": 3,
+            "count": 13,
+            "slot": 30,
+            "hidden": false
+        },
+        "chip": {
+            "price": 30,
+            "count": 0,
+            "slot": 1,
+            "hidden": false
+        },
+        "monitor": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 44,
+            "hidden": false
+        },
+        "gopro2": {
+            "price": 500,
+            "count": 0,
+            "slot": 10,
+            "hidden": false
+        },
+        "fountainpen": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 60,
+            "hidden": false
+        },
+        "console": {
+            "price": {
+                "min": 40,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 36,
+            "hidden": false
+        },
+        "bottle": {
+            "price": {
+                "min": 1000,
+                "max": 3500
+            },
+            "count": 0,
+            "slot": 56,
+            "hidden": false
+        },
+        "iftablet": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 76,
+            "hidden": false
+        },
+        "sculpture": {
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 43,
+            "hidden": false
+        },
+        "carstereo": {
+            "price": {
+                "min": 50,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 58,
+            "hidden": false
+        },
+        "earings": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 51,
+            "hidden": false
+        },
+        "wwknowpad": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 77,
+            "hidden": false
+        },
+        "gold_bracelet": {
+            "price": {
+                "min": 50,
+                "max": 80
+            },
+            "count": 0,
+            "slot": 49,
+            "hidden": false
+        },
+        "tapeplayer": {
+            "price": {
+                "min": 35,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 53,
+            "hidden": false
+        },
+        "cctv2": {
+            "price": 4000,
+            "count": 0,
+            "slot": 7,
+            "hidden": false
+        },
+        "necklace": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 47,
+            "hidden": false
+        },
+        "television": {
+            "price": {
+                "min": 50,
+                "max": 75
+            },
+            "count": 0,
+            "slot": 33,
+            "hidden": false
+        },
+        "lighter": {
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "count": 7,
+            "slot": 15,
+            "hidden": false
+        },
+        "bdwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 70,
+            "hidden": false
+        },
+        "lockpick": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 27,
+            "hidden": false
+        },
+        "smallscales": {
+            "price": 10,
+            "count": 0,
+            "slot": 13,
+            "hidden": false
+        },
+        "rgring": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 73,
+            "hidden": false
+        },
+        "bracelet": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 50,
+            "hidden": false
+        },
+        "lugwrench": {
+            "price": {
+                "min": 10,
+                "max": 15
+            },
+            "count": 0,
+            "slot": 24,
+            "hidden": false
+        },
+        "ammo-9": {
+            "price": 2,
+            "count": 0,
+            "slot": 25,
+            "hidden": false
+        },
+        "ebracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 68,
+            "hidden": false
+        },
+        "board": {
+            "price": 20,
+            "count": 0,
+            "slot": 2,
+            "hidden": false
+        },
+        "bswatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 67,
+            "hidden": false
+        },
+        "qualityscales": {
+            "price": {
+                "min": 80,
+                "max": 100
+            },
+            "count": 0,
+            "slot": 14,
+            "hidden": false
+        },
+        "trimmer": {
+            "price": {
+                "min": 45,
+                "max": 60
+            },
+            "count": 0,
+            "slot": 23,
+            "hidden": false
+        },
+        "bobbypin": {
+            "price": 2,
+            "count": 0,
+            "slot": 16,
+            "hidden": false
+        },
+        "radio": {
+            "price": 250,
+            "count": 5,
+            "slot": 5,
+            "hidden": false
+        },
+        "iforange": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 79,
+            "hidden": false
+        },
+        "fishing_tin": {
+            "price": 2,
+            "count": 20,
+            "slot": 31,
+            "hidden": false
+        },
+        "scissorjack": {
+            "price": {
+                "min": 35,
+                "max": 50
+            },
+            "count": 0,
+            "slot": 22,
+            "hidden": false
+        },
+        "skull": {
+            "price": {
+                "min": 350,
+                "max": 600
+            },
+            "count": 0,
+            "slot": 52,
+            "hidden": false
+        },
+        "yozzys": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 74,
+            "hidden": false
+        },
+        "cctv3": {
+            "price": 1500,
+            "count": 0,
+            "slot": 8,
+            "hidden": false
+        },
+        "gopro": {
+            "price": 100,
+            "count": 0,
+            "slot": 11,
+            "hidden": false
+        },
+        "printer": {
+            "price": {
+                "min": 20,
+                "max": 35
+            },
+            "count": 0,
+            "slot": 45,
+            "hidden": false
+        },
+        "shoebox": {
+            "price": {
+                "min": 10,
+                "max": 25
+            },
+            "count": 0,
+            "slot": 34,
+            "hidden": false
+        },
+        "gold_watch": {
+            "price": {
+                "min": 100,
+                "max": 150
+            },
+            "count": 0,
+            "slot": 48,
+            "hidden": false
+        },
+        "rbracelet": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 63,
+            "hidden": false
+        },
+        "scufflinks": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 64,
+            "hidden": false
+        },
+        "paintingg": {
+            "price": {
+                "min": 600,
+                "max": 1250
+            },
+            "count": 0,
+            "slot": 57,
+            "hidden": false
+        },
+        "nylonrope": {
+            "price": 125,
+            "count": 47,
+            "slot": 20,
+            "hidden": true
+        },
+        "rnecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 69,
+            "hidden": true
+        },
+        "snecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 65,
+            "hidden": true
+        },
+        "panther": {
+            "price": {
+                "min": 3000,
+                "max": 5000
+            },
+            "count": 0,
+            "slot": 54,
+            "hidden": true
+        },
+        "hairdryer": {
+            "price": {
+                "min": 5,
+                "max": 10
+            },
+            "count": 5,
+            "slot": 41,
+            "hidden": true
+        },
+        "ammo-45": {
+            "price": 2,
+            "count": 0,
+            "slot": 26,
+            "hidden": true
+        },
+        "cwnotepad": {
+            "price": 10,
+            "count": 14,
+            "slot": 17,
+            "hidden": true
+        },
+        "microwave": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 32,
+            "hidden": true
+        },
+        "fishing_boot": {
+            "price": 3,
+            "count": 24,
+            "slot": 29,
+            "hidden": true
+        },
+        "polaroidcam": {
+            "price": 125,
+            "count": 1,
+            "slot": 6,
+            "hidden": true
+        },
+        "qwatch": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 72,
+            "hidden": true
+        },
+        "pickaxe": {
+            "price": 75,
+            "count": 0,
+            "slot": 18,
+            "hidden": true
+        },
+        "enecklace": {
+            "price": {
+                "min": 100,
+                "max": 250
+            },
+            "count": 0,
+            "slot": 66,
+            "hidden": true
+        },
+        "screwdriverset": {
+            "price": 100,
+            "count": 11,
+            "slot": 19,
+            "hidden": true
+        },
+        "portablecopier": {
+            "price": 300,
+            "count": 39,
+            "slot": 12,
+            "hidden": true
+        },
+        "gopro3": {
+            "price": 1000,
+            "count": 0,
+            "slot": 9,
+            "hidden": true
+        },
+        "iflapbook": {
+            "price": {
+                "min": 75,
+                "max": 200
+            },
+            "count": 0,
+            "slot": 75,
+            "hidden": true
+        },
+        "j_phone": {
+            "price": {
+                "min": 10,
+                "max": 20
+            },
+            "count": 0,
+            "slot": 42,
+            "hidden": true
+        },
+        "watch": {
+            "price": {
+                "min": 30,
+                "max": 55
+            },
+            "count": 0,
+            "slot": 46,
+            "hidden": true
+        }
+    }
+}
